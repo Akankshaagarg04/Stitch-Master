@@ -7,9 +7,9 @@ import java.util.Properties;
 
 public class mailController {
     public static void SendMail(String to,String cname,String Subj,String emailBody) {
-        String from = "akankshagarg5298@gmailcom"; // sender's email
-        final String username = "akankshagarg5298@gmail.com"; // your Gmail address
-        final String password = "bwsf euvh rbmm nlev"; // your app password
+        String from = ""; // sender's email
+        final String username = ""; // your Gmail address
+        final String password = ""; // your app password
 
         String host = "smtp.gmail.com";
 
